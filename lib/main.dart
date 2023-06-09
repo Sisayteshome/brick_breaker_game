@@ -1,4 +1,5 @@
-import 'package:brick_breaker/homepage.dart';
+
+import 'package:brick_break_game/homepage/homepage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
